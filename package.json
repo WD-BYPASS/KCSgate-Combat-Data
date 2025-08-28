@@ -2,7 +2,7 @@
   "name": "KCSgate Combat Kit",
   "version": "1.0.0",
   "description": "The combat kit for KCSgate",
-  "main": "index.js",
+  "main": "index.md",
   "scripts": {
     "dev": "vitepress dev docs",
     "build": "vitepress build docs",

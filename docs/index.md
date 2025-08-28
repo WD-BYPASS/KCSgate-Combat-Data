@@ -1,17 +1,10 @@
+---
+title: KCSgate Combat Data
+---
+
 # **KCSgate Combat Data** {#kcsgate-combat-data}
 
-## **Table of Contents:** {#table-of-contents:}
-
-[KCSgate Combat Data](#kcsgate-combat-data)
-
-[Table of Contents:](#table-of-contents:)
-
-[Data:](#data:)
-
-[Bottom Line:](#bottom-line:)
-
-[Signatures:](#signatures:)
-
+[[TOC]]
 ## **Data:** {#data:}
 
 In Tennessee, it is generally illegal to digitally share children's information without proper consent due to the Children's Online Privacy Protection Act (COPPA) for online services and new state laws like the "Protecting Children from Social Media Act", which require parental permission for minors to create social media accounts and offer parental supervision tools. Sharing sexually explicit images of a minor is also illegal. However, educational data is governed by FERPA, which allows parental consent for the disclosure of student information.   

@@ -1,15 +1,3 @@
-# 
-
-# 
-
-# 
-
-# 
-
-# 
-
-# 
-
 # **KCSgate Combat Data** {#kcsgate-combat-data}
 
 ## **Table of Contents:** {#table-of-contents:}

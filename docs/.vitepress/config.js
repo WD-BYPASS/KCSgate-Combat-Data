@@ -1,6 +1,6 @@
 export default {
-    title: "Bigstone Wiki",
-    description: "A wiki for Bigstone and our projects! Make sure your components align with the standards.",
+    title: "KCSgate Combat Data",
+    description: "The info to deal with KCSgate.",
     themeConfig: {
         siteTitle: "KCSgate Combat Data",
         footer: {

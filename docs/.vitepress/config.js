@@ -1,6 +1,7 @@
 export default {
     title: "KCSgate Combat Data",
     description: "The info to deal with KCSgate.",
+    base: "/KCSgate-Combat-Data/",
     themeConfig: {
         siteTitle: "KCSgate Combat Data",
         footer: {

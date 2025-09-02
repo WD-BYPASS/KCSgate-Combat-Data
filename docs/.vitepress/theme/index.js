@@ -1,8 +1,5 @@
 import DefaultTheme from 'vitepress/theme'
 
 export default {
-  ...DefaultTheme,
-  enhanceApp({ app }) {
-    app.component('PortList', PortList)
-  }
+  ...DefaultTheme
 }

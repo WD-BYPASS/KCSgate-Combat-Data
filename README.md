@@ -1,6 +1,6 @@
-# **KCSgate Combat Data** {#kcsgate-combat-data}
+# **KCSgate Combat Data**
 
-## **Table of Contents:** {#table-of-contents:}
+## **Table of Contents:**
 
 [KCSgate Combat Data](#kcsgate-combat-data)
 
@@ -12,7 +12,7 @@
 
 [Signatures:](#signatures:)
 
-## **Data:** {#data:}
+## **Data:**
 
 In Tennessee, it is generally illegal to digitally share children's information without proper consent due to the Children's Online Privacy Protection Act (COPPA) for online services and new state laws like the "Protecting Children from Social Media Act", which require parental permission for minors to create social media accounts and offer parental supervision tools. Sharing sexually explicit images of a minor is also illegal. However, educational data is governed by FERPA, which allows parental consent for the disclosure of student information.   
 Key Aspects of Children's Data Privacy in Tennessee  
@@ -64,12 +64,11 @@ KCS Device agreement (DOES NOTMENSION HĀPARA OR LINEWIZE\!\!\!\!  THERE IS NO P
 
 “District networks and devices are monitored, and students and staff should have no expectation of privacy.” (kinda scummy to say, “you will not have privacy and you shouldn’t have expected it in the first place”)
 
-## **Bottom Line:** {#bottom-line:}
+## **Bottom Line:**
 
 **Federal law states that parental consent is required for apps, websites, and extensions to collect data of those under 18, and the KCS tech agreement doesn’t address Hāpara Highlights and Linewize, which, as they collect data, *require* parental consent to be used.  KCS is at fault for the tech agreement, and as the missing parts of the tech agreement are illegal, it should be revised, and other policies and agreements should be at the very least reviewed.  If not, a lawsuit may be formed.**
 
-## **Signatures:** {#signatures:}
-
+## **Signatures:**
 [The link to the signature form](https://docs.google.com/forms/d/e/1FAIpQLSf6MzFZp-h7T7nbYKNiHWsYsjZx0IJr9y5FyAHHv7x6w0DXNQ/viewform?usp=header)   
 [SIGNATURES](https://docs.google.com/spreadsheets/d/1d9QdUg8e_ljXw-hADsZB5ymzX75jjyiVA2fckVRb6xg/edit?usp=sharing)![][image1] 
 
